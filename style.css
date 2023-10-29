@@ -14,7 +14,7 @@ body {
 
 html {
   scroll-behavior: smooth;
-  background: linear-gradient(to right,#C3C3C3, #FFFFFF);
+  background: linear-gradient(to top right,#C3C3C3, #FFFFFF);
 }
 
 p {
