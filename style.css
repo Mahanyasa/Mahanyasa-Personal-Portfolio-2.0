@@ -227,9 +227,20 @@ section {
   margin-bottom: 1rem;
 }
 
+.section__text__p3{
+  text-align: center;
+  color: #46923C;
+}
+
 .title {
   font-size: 3rem;
   text-align: center;
+}
+
+.title-2{
+  font-size: 3rem;
+  text-align: center;
+  color: #276221;
 }
 
 #socials-container {
@@ -288,6 +299,16 @@ section {
 
 .btn-color-2:hover {
   border: rgb(255, 255, 255) 0.1rem solid;
+}
+
+.btn-color-3 {
+  background: none;
+}
+
+.btn-color-3:hover {
+  background-color: #88DC3D;
+  color: #FFF;
+  border-color: #88DC3D;
 }
 
 .btn-container {
@@ -440,7 +461,7 @@ article .icon {
 
 .kotlin {
   width: 90%;
-  
+
 }
 
 .java {
@@ -459,37 +480,39 @@ article .icon {
   width: 60%;
 }
 
-.js{
-  width:75%;
+.js {
+  width: 75%;
 }
 
-.fbs{
+.fbs {
   width: 90%;
 }
 
-.njs{
+.njs {
   width: 50%;
 }
 
-.ejs{
+.ejs {
   width: 30%;
 }
 
-.git{
+.git {
   width: 80%;
 }
 
-.edc{
+.edc {
   width: 95%;
 }
 
-.sql{
+.sql {
   width: 40%;
 }
+
 /* PROJECTS SECTION */
 
 #projects {
   position: relative;
+
 }
 
 .color-container {
@@ -519,13 +542,15 @@ article .icon {
   border-color: rgb(163, 163, 163);
 }
 
+
 /* CONTACT */
 
 #contact {
   display: flex;
   justify-content: center;
   flex-direction: column;
-  height: 70vh;
+  height: auto;
+  margin: 50px;
 }
 
 .contact-info-upper-container {
@@ -559,6 +584,31 @@ article .icon {
   height: 2.5rem;
 }
 
+.form-contact {
+  align-items: center;
+  text-align: center;
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+  background-color: #FFF;
+  border-radius: 20px;
+}
+
+.form-contact:hover {
+  box-shadow: 0 0 11px rgba(33, 33, 33, .2);
+}
+
+.form-contact .inp {
+  border-radius: 50px;
+  border-color: #88DC3D;
+  height: 50px;
+  width: 300px;
+  font-size: 25px;
+  text-align: center;
+  color: #72dF6A;
+}
+
+bt
 /* FOOTER SECTION */
 
 footer {
