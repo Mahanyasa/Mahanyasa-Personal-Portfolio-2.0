@@ -275,9 +275,11 @@ section {
   border-radius: 2rem;
 }
 
-.btn-color-1,
+.btn-color-1{
+  border: 1px solid #3B3B3B;
+}
 .btn-color-2 {
-  border: rgb(53, 53, 53) 0.1rem solid;
+  border: 1px solid #3B3B3B;
 }
 
 .btn-color-1:hover,
@@ -352,14 +354,21 @@ section {
   flex: 1;
   background: white;
   border-radius: 2rem;
-  border: rgb(53, 53, 53) 0.1rem solid;
-  border-color: rgb(163, 163, 163);
+  border: 1px solid #3B3B3B;
+  border-color: #3B3B3B;
   text-align: center;
 }
 
 .details-container:hover {
   cursor: pointer;
-  box-shadow: 0 0 11px rgba(33, 33, 33, .2);
+  box-shadow: 0 0 10px rgba(33, 33, 33, .2);
+}
+
+.banner-details-container{
+  padding: 20px;
+  border-radius: 10px;
+  border: 2px solid #3B3B3B;
+  border-color: #3B3B3B;
 }
 
 .ps-details-container {
@@ -520,7 +529,7 @@ article .icon {
 }
 
 .color-container {
-  border-color: rgb(163, 163, 163);
+  border-color: #3B3B3B;
   background: rgb(250, 250, 250);
 }
 
@@ -531,9 +540,10 @@ article .icon {
 }
 
 .banner-img {
-  border-radius: 2rem;
+  border-radius: 20px;
   width: 1584px;
   height: 396px;
+  border-radius: 10px solid #3B3B3B;
 }
 
 .project-title {
