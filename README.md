@@ -6,13 +6,13 @@ Welcome to the second version of my portfolio! This GitHub repository contains t
    This portfolio is designed to provide a professional and interactive platform to showcase my work and skills. It serves as a hub for potential employers, clients, and collaborators to learn more about me and my projects.
 
 - Features
-   * Responsive Design: The portfolio is designed to be fully responsive, ensuring a seamless experience on various devices and screen sizes.
-   * Project Showcase: Highlight your projects, including descriptions, images, and links.
-   * About Me: Introduce yourself with a detailed biography and your career goals.
-   * Contact Information: Provide ways for visitors to reach out to you, such as email and social media links.
-   * Skills Section: Display your skills and technologies you are proficient in.
-   * Customization: Easily customize the portfolio by modifying the HTML, CSS, and JavaScript files to add your own content and styling.
-   * SEO Friendly: Optimize your portfolio for search engines to improve your online visibility.
+   - Responsive Design: The portfolio is designed to be fully responsive, ensuring a seamless experience on various devices and screen sizes.
+   - Project Showcase: Highlight your projects, including descriptions, images, and links.
+   - About Me: Introduce yourself with a detailed biography and your career goals.
+   - Contact Information: Provide ways for visitors to reach out to you, such as email and social media links.
+   - Skills Section: Display your skills and technologies you are proficient in.
+   - Customization: Easily customize the portfolio by modifying the HTML, CSS, and JavaScript files to add your own content and styling.
+   - SEO Friendly: Optimize your portfolio for search engines to improve your online visibility.
             
   - Getting Started
     To get started with this portfolio, follow these steps:
