@@ -427,19 +427,19 @@ article .icon {
 }
 
 .bar {
-  background: #454545;
+  background: #3B3B3B;
   display: block;
-  height: 20px;
+  height: 10px;
   width: 200px;
-  border: 1px solid #000;
-  border-radius: 10px;
+  border: 1px solid #3B3B3B;
+  border-radius: 50px;
   overflow: hidden;
 }
 
 .bar span {
   height: 20px;
   float: left;
-  background: #999999;
+  background: #88DC3D;
 }
 
 .html {
@@ -447,7 +447,7 @@ article .icon {
 }
 
 .css {
-  width: 55%;
+  width: 75%;
 }
 
 .kotlin {
