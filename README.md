@@ -2,15 +2,6 @@
 
 Welcome to the second version of my portfolio! This GitHub repository contains the HTML, CSS, and JavaScript code for my updated personal website, showcasing my skills, projects, and experiences. You can use this repository as a reference, fork it, or customize it for your own portfolio.
 
-Table of Contents
-1. Description
-2. Features
-3. Getting Started
-4. Usage
-5. Customization
-6. Contributing
-7. License
-
 1. Description
 This portfolio is designed to provide a professional and interactive platform to showcase my work and skills. It serves as a hub for potential employers, clients, and collaborators to learn more about me and my projects.
 
