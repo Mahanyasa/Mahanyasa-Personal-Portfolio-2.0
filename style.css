@@ -337,6 +337,12 @@ section {
   right: -5rem;
   bottom: 2.5rem;
 }
+.add{
+align-items: center;
+bottom: 5rem;
+height: 50px;
+width: 50px;
+}
 
 .details-container {
   padding: 1.5rem;
