@@ -17,24 +17,23 @@ SEO Friendly: Optimize your portfolio for search engines to improve your online 
 3. Getting Started
 To get started with this portfolio, follow these steps:
 
-i. Clone the Repository:
+  i. Clone the Repository:
+    git clone https://github.com/Mahanyasa/Mahanayasa-Personal-Portfolio-2.0.git
 
-git clone https://github.com/yourusername/portfolio-2.0.git
+  ii. Customize the Content:
+    Modify the HTML in index.html to update your personal information, project descriptions, and other content.
+    Update the styles in style.css to match your preferred design and layout.
+    If needed, make changes to the JavaScript in script.js to add interactivity or additional features.
 
-ii. Customize the Content:
-Modify the HTML in index.html to update your personal information, project descriptions, and other content.
-Update the styles in style.css to match your preferred design and layout.
-If needed, make changes to the JavaScript in script.js to add interactivity or additional features.
+  iii. Assets:
+    Replace the images in the img/ directory with your own project screenshots and personal photos.
+    Add any additional assets in the appropriate directories.
 
-iii. Assets:
-Replace the images in the img/ directory with your own project screenshots and personal photos.
-Add any additional assets in the appropriate directories.
+  iv. Testing:
+    Open the index.html file in a web browser to test your portfolio locally and make any necessary adjustments.
 
-iv. Testing:
-Open the index.html file in a web browser to test your portfolio locally and make any necessary adjustments.
-
-v. Deployment:
-Deploy your customized portfolio to a web hosting service of your choice. Popular options include GitHub Pages, Netlify, or Vercel.
+  v. Deployment:
+    Deploy your customized portfolio to a web hosting service of your choice. Popular options include GitHub Pages, Netlify, or Vercel.
 
 4. Usage
 Once you have customized and deployed your portfolio, share the link to your portfolio on your resume, LinkedIn profile, and social media accounts to enhance your online presence.
