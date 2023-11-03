@@ -286,7 +286,7 @@ section {
 .btn-color-1,
 .btn-color-2:hover {
   background: rgb(53, 53, 53);
-  color: white;
+  color: #88DC3D;
 }
 
 .btn-color-1:hover {
@@ -301,15 +301,6 @@ section {
   border: rgb(255, 255, 255) 0.1rem solid;
 }
 
-.btn-color-3 {
-  background: none;
-}
-
-.btn-color-3:hover {
-  background-color: #88DC3D;
-  color: #FFF;
-  border-color: #88DC3D;
-}
 
 .btn-container {
   gap: 1rem;
@@ -600,12 +591,12 @@ article .icon {
 
 .form-contact .inp {
   border-radius: 50px;
-  border-color: #88DC3D;
   height: 50px;
   width: 300px;
   font-size: 25px;
   text-align: center;
-  color: #72dF6A;
+  order: #88DC3D 0.1rem solid;
+
 }
 
 bt
