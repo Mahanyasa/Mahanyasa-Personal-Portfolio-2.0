@@ -18,12 +18,12 @@ Welcome to the second version of my portfolio! This GitHub repository contains t
     To get started with this portfolio, follow these steps:
             
     - Clone the Repository:
-    -             git clone https://github.com/Mahanyasa/Mahanayasa-Personal-Portfolio-2.0.git
+      -             git clone https://github.com/Mahanyasa/Mahanayasa-Personal-Portfolio-2.0.git
                 
     - Customize the Content:
-                  Modify the HTML in index.html to update your personal information, project descriptions, and other content.
-                  Update the styles in style.css to match your preferred design and layout.
-                  If needed, make changes to the JavaScript in script.js to add interactivity or additional features.
+      Modify the HTML in index.html to update your personal information, project descriptions, and other content.
+      Update the styles in style.css to match your preferred design and layout.
+      If needed, make changes to the JavaScript in script.js to add interactivity or additional features.
                 
     - Assets:
       Replace the images in the img/ directory with your own project screenshots and personal photos.
