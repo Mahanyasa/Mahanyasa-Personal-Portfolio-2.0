@@ -1,4 +1,4 @@
-@media screen and (max-width: 1400px) {
+@media screen and (max-width: 1800px) {
   #profile {
     height: 83vh;
     margin-bottom: 6rem;
@@ -19,6 +19,21 @@
 
   .form-contact {
     visibility: hidden;
+  }
+  .bar {
+    background: #3B3B3B;
+    display: block;
+    height: 10px;
+    width: 150px;
+    border: 1px solid #3B3B3B;
+    border-radius: 50px;
+    overflow: hidden;
+  }
+  
+  .bar span {
+    height: 20px;
+    float: left;
+    background: #88DC3D;
   }
 }
 
@@ -70,6 +85,22 @@
 
   .form-contact {
     visibility: hidden;
+  }
+
+  .bar {
+    background: #3B3B3B;
+    display: block;
+    height: 10px;
+    width: 120px;
+    border: 1px solid #3B3B3B;
+    border-radius: 50px;
+    overflow: hidden;
+  }
+  
+  .bar span {
+    height: 20px;
+    float: left;
+    background: #88DC3D;
   }
 }
 
@@ -147,5 +178,20 @@
 
   .form-contact {
     visibility: hidden;
+  }
+  .bar {
+    background: #3B3B3B;
+    display: block;
+    height: 10px;
+    width: 120px;
+    border: 1px solid #3B3B3B;
+    border-radius: 50px;
+    overflow: hidden;
+  }
+  
+  .bar span {
+    height: 20px;
+    float: left;
+    background: #88DC3D;
   }
 }
