@@ -12,6 +12,11 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
+.project-page {
+  margin: 10px;
+  padding: 20px;
+}
+
 html {
   scroll-behavior: smooth;
   background: #C3C3C3;
@@ -275,9 +280,10 @@ section {
   border-radius: 2rem;
 }
 
-.btn-color-1{
+.btn-color-1 {
   border: 1px solid #3B3B3B;
 }
+
 .btn-color-2 {
   border: 1px solid #3B3B3B;
 }
@@ -364,7 +370,7 @@ section {
   box-shadow: 0 0 10px rgba(33, 33, 33, .2);
 }
 
-.banner-details-container{
+.banner-details-container {
   padding: 20px;
   border-radius: 10px;
   border: 2px solid #3B3B3B;
@@ -537,13 +543,6 @@ article .icon {
   border-radius: 2rem;
   width: 90%;
   height: 90%;
-}
-
-.banner-img {
-  border-radius: 20px;
-  width: 1584px;
-  height: 396px;
-  border-radius: 10px solid #3B3B3B;
 }
 
 .project-title {
