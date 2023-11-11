@@ -1,5 +1,5 @@
 @media screen and (max-width: 1800px) {
-  #profile {
+  #home {
     height: 83vh;
     margin-bottom: 6rem;
   }
@@ -51,7 +51,7 @@
     margin-top: 2rem;
   }
 
-  #profile,
+  #home,
   .section-container {
     display: block;
   }
@@ -111,7 +111,7 @@
     height: 40vh;
   }
 
-  #profile {
+  #home {
     height: 83vh;
     margin-bottom: 0;
   }
