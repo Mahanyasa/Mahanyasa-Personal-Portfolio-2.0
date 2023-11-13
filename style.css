@@ -12,7 +12,8 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
-.project-page {
+.project-page,
+.main-page {
   margin: 10px;
   padding: 20px;
 }
