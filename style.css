@@ -20,11 +20,12 @@ body {
 
 html {
   scroll-behavior: smooth;
-  background: #C3C3C3;
+  background-image: linear-gradient(180deg, #ADD8E6, #f4abc9, #FFFFED);
+  color: #3B3B3B;
 }
 
 p {
-  color: rgb(85, 85, 85);
+  color: #3B3B3B;
 }
 
 span {
@@ -86,7 +87,7 @@ nav {
 }
 
 a {
-  color: black;
+  color: #3B3B3B;
   text-decoration: none;
   text-decoration-color: white;
 }
@@ -365,6 +366,10 @@ section {
   text-align: center;
 }
 
+.details-container p, h3, h2 {
+  color: #3B3B3B;
+}
+
 .details-container:hover {
   cursor: pointer;
   box-shadow: 0 0 10px rgba(33, 33, 33, .2);
@@ -410,7 +415,7 @@ section {
 }
 
 .experience-sub-title {
-  color: rgb(85, 85, 85);
+  color: #3B3B3B;
   font-weight: 600;
   font-size: 1.75rem;
   margin-bottom: 2rem;
@@ -451,11 +456,11 @@ article .icon {
 }
 
 .bar {
-  background: #3B3B3B;
+  background: #fff;
   display: block;
   height: 10px;
   width: 200px;
-  border: 1px solid #3B3B3B;
+  border: 1px solid #fff;
   border-radius: 50px;
   overflow: hidden;
 }
@@ -575,6 +580,7 @@ article .icon {
   background: (250, 250, 250);
   margin: 2rem auto;
   padding: 0.5rem;
+  color: #fff;
 }
 
 .contact-info-container {
