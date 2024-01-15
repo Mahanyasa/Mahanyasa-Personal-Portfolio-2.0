@@ -1,3 +1,9 @@
+const cursor = new MouseFollower({
+  container: document.body,
+  speed: 0.3,
+  ease: 'expo.out',
+});
+
 function toggleMenu() {
   const menu = document.querySelector(".menu-links");
   const icon = document.querySelector(".hamburger-icon");
