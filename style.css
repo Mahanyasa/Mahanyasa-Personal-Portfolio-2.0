@@ -22,6 +22,7 @@ html {
   scroll-behavior: smooth;
   background-image: linear-gradient(180deg, #ADD8E6, #F4ABC9, #FFFFED , #FF8C00);
   color: #3B3B3B;
+  animation: colours 12s ease-in-out infinite;
 }
 
 p {
@@ -215,6 +216,12 @@ section {
   height: 400px;
   width: 400px;
   margin: auto 0;
+  transition: width 2s, height 4s;
+}
+
+.section__pic-container:hover{
+width: 500px;
+height: 500px;
 }
 
 .section__text {
@@ -406,6 +413,12 @@ section {
   height: 400px;
   width: 400px;
   margin: auto 0;
+  transition: width 2s, height 4s;
+}
+
+.section__pic-container:hover{
+  width: 500px;
+  bottom: 500px;
 }
 
 /* EXPERIENCE SECTION */
@@ -560,6 +573,9 @@ article .icon {
   border-color: rgb(163, 163, 163);
 }
 
+#hdn-dv{
+  display: none;
+}
 
 /* CONTACT */
 
