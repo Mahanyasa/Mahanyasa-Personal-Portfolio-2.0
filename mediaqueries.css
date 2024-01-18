@@ -18,7 +18,18 @@
   }
 
   .form-contact {
-    visibility: hidden;
+    display: block;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    background-color: #FFFFFF;
+    border-radius: 20px;
+    visibility: visible;
+  }
+  .contact-frm{
+    margin: 50px;
   }
   .bar {
     background: #3B3B3B;

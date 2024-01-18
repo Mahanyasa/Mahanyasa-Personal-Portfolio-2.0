@@ -20,7 +20,10 @@
     <div class="logo">Mahanyasa <span>Keesara</span></div>
     <div>
       <ul class="nav-links">
-        <li><div class="tglthm"><input type="checkbox" id="switch" class="checkbox" /><label for="switch" class="toggle" onclick="toggleTheme()"></label></div></li>
+        <li>
+          <div class="tglthm"><input type="checkbox" id="switch" class="checkbox" /><label for="switch" class="toggle"
+              onclick="toggleTheme()"></label></div>
+        </li>
         <li><a href="#home">Home</a></li>
         <li><a href="#about">About</a></li>
         <li><a href="#experience">Experience</a></li>
@@ -38,7 +41,10 @@
         <span></span>
       </div>
       <div class="menu-links">
-        <li><div class="tglthm"><input type="checkbox" id="switch" class="checkbox" /><label for="switch" class="toggle" onclick="toggleTheme()"></label></div></li>
+        <li>
+          <div class="tglthm"><input type="checkbox" id="switch" class="checkbox" /><label for="switch" class="toggle"
+              onclick="toggleTheme()"></label></div>
+        </li>
         <li><a href="#home">Home</a></li>
         <li><a href="#about" onclick="toggleMenu()">About</a></li>
         <li><a href="#experience" onclick="toggleMenu()">Experience</a></li>
@@ -404,21 +410,6 @@
     <img src="./assets/arrow.png" alt="Arrow icon" class="icon arrow" onclick="location.href='./#contact'" />
   </section>
   <section id="contact">
-    <div class="form-contact banner-details-container">
-      <p class="section__text__p2">Get in Touch</p>
-      <h1 class="title">Contact Me</h1>
-      <form class="contact-form" action="https://formsubmit.co/mahanyask@gmail.com" method="POST">
-        <input class="inp" name="name" id="name" type="text" autocomplete="on" placeholder="Name" required><br><br>
-        <input class="inp" name="company" id="company" type="text" autocomplete="on" placeholder="Company"
-          required><br><br>
-        <input class="inp" name="email" id="email" type="email" autocomplete="on" placeholder="Email" required><br><br>
-        <input class="inp" name="number" id="number" type="text" autocomplete="on" placeholder="Phone Number"
-          required><br><br>
-        <button class="btn btn-color-2 project-btn submit" type="submit">
-          Submit
-        </button>
-      </form>
-    </div>
     <div class="contact-info-upper-container">
       <div class="contact-info-container">
         <img src="./assets/email.png" alt="Email icon" class="icon contact-icon email-icon" />
@@ -437,7 +428,22 @@
         <p><a href="https://www.instagram.com/_mk_2711_/" target="_blank">Instagram</a></p>
       </div>
     </div>
-
+    <div class="form-contact">
+        <p class="section__text__p2">Get in Touch</p>
+        <h1 class="title">Contact Me</h1>
+        <form class="contact-frm" action="https://formsubmit.co/mahanyask@gmail.com" method="POST">
+          <input class="inp" name="name" id="name" type="text" autocomplete="on" placeholder="Name" required><br><br>
+          <input class="inp" name="company" id="company" type="text" autocomplete="on" placeholder="Company"
+            required><br><br>
+          <input class="inp" name="email" id="email" type="email" autocomplete="on" placeholder="Email"
+            required><br><br>
+          <input class="inp" name="number" id="number" type="text" autocomplete="on" placeholder="Phone Number"
+            required><br><br>
+          <button class="btn btn-color-2 project-btn submit" type="submit">
+            Submit
+          </button>
+        </form>
+    </div>
   </section>
   <footer>
     <nav>
