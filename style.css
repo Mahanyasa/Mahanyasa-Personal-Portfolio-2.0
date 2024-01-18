@@ -40,7 +40,7 @@
   --btn2-bg: #A0A4A9;
   --btn2-bg-hvr: #A198A5;
   --btn2-clr: #272727;
-  --tgl-btn: linear-gradient(180deg, #ADD8E6, #F4ABC9, #FFFFED, #FF8C00);
+  --tgl-btn: linear-gradient(135deg, #ADD8E6, #F4ABC9, #FFFFED, #FF8C00);
 }
 
 body {
