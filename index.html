@@ -15,11 +15,12 @@
   <script src="https://unpkg.com/mouse-follower@1/dist/mouse-follower.min.js"></script>
 </head>
 
-<body class="main-page">
+<body class="main-page-light">
   <nav id="desktop-nav">
     <div class="logo">Mahanyasa <span>Keesara</span></div>
     <div>
       <ul class="nav-links">
+        <li><div class="tglthm"><input type="checkbox" id="switch" class="checkbox" /><label for="switch" class="toggle" onclick="toggleTheme()"></label></div></li>
         <li><a href="#home">Home</a></li>
         <li><a href="#about">About</a></li>
         <li><a href="#experience">Experience</a></li>
@@ -37,6 +38,7 @@
         <span></span>
       </div>
       <div class="menu-links">
+        <li><button id="switch" onclick="toggleTheme()">Switch</button></li>
         <li><a href="#home">Home</a></li>
         <li><a href="#about" onclick="toggleMenu()">About</a></li>
         <li><a href="#experience" onclick="toggleMenu()">Experience</a></li>
@@ -396,7 +398,7 @@
         </div>
       </div>
     </div>
-    <button class="btn btn-color-1" id = "btn-prj" onclick="toggleProject()">
+    <button class="btn btn-color-1" id="btn-prj" onclick="toggleProject()">
       More
     </button>
     <img src="./assets/arrow.png" alt="Arrow icon" class="icon arrow" onclick="location.href='./#contact'" />
