@@ -156,6 +156,9 @@ a:hover {
   border-radius: 30px;
   border: 2px solid var(--clr-gry);
 }
+.toggle:hover{
+  box-shadow: 0 0 5px var(--nav-a);
+}
 
 /* After slide changes */
 .toggle:after {
