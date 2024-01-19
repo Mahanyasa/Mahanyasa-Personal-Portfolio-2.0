@@ -226,4 +226,7 @@ Welcome to the second version of my portfolio! This GitHub repository contains t
                           }
                         
                         })();
+
+# Copyright © 2023 Keesara Mahanaysa. All Rights Reserved.
+
   Happy coding! 🚀
