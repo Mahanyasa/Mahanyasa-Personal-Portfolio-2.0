@@ -51,7 +51,7 @@ Welcome to the second version of my portfolio! This GitHub repository contains t
   Thank you for using this portfolio template. I hope it helps you showcase your work and talents effectively. If you have any questions or need assistance, don't hesitate to reach out!
 
 # Here is the guide for Dark and Light theme for CSS
-##CSS
+## CSS
 ## Dark Theme 
 ## Html
      background:#3B3B3B;
